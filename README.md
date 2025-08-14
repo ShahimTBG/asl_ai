@@ -19,23 +19,7 @@ Libraries: NumPy, Matplotlib, OpenCV (for future use)
 
 Hardware Used
 Training was done on a desktop with:
-
 Intel i7‑13700K
-
-Project Structure
-sql
-Copy
-Edit
-ASL-Classifier/
-│-- data/               # ASL dataset (not included in repo)
-│-- models/             # Saved trained model
-│-- notebooks/          # Jupyter Notebooks for training and testing
-│-- src/                # Training and inference scripts
-│-- README.md
-Results
-Final test accuracy: X% (fill this in)
-
-Example predictions: (add screenshots or tables later)
 
 How to Run
 Clone the repo:
